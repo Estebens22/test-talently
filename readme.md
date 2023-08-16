@@ -6,7 +6,7 @@
 2. Agregue "Café" como nuevo tipo de elemento.
 ## Resultado
 
-           _     _
+´´´           _     _
   /\ /\__ _| |__ | | __ _ _ __
  / //_/ _` | '_ \| |/ _` | '_ \
 / __ \ (_| | | | | | (_| | | | |
@@ -19,6 +19,8 @@ Working Directory: /project
 ..........................................................                       100%
 
 Executed 58 of 58 PASS in 0.038 seconds
+
+´´´
 
 # Preguntas de conocimiento en Laravel
 
